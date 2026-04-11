@@ -136,9 +136,10 @@ All plans include:
 
 First 50 waitlist signups receive:
 
-- 2 months completely free at launch
+- 3 months completely free at launch
 - Early access before public launch
 - Launch pricing locked in forever
+- Founding member profile badge
 
 ## What Makes Pawgress Different
 
