@@ -39,7 +39,30 @@ Professional dog trainers who:
 
 ## Competitors
 
-BarkBook (barkbook.app) — focuses on scheduling and booking automation. Does not have training specific features like session summaries, homework, progress tracking or roadmaps. Pawgress owns the training management space.
+**Last updated: 2026-04-13. Run a live web search to verify before any competitor research — do not treat this list as exhaustive.**
+
+### Direct (same audience, training-focused)
+- **pawgress.ca** — SAME NAME. Canadian SaaS, live since 2024. Free + $29/mo. Scheduling, booking, Google Cal + Zoom, intake forms, basic progress tracking, streak tracking. No session scores, no per-dog roadmaps, no structured homework. SimilarWeb rank: #0 (extremely low traffic). Reviews only on own site (unverified). No Instagram presence.
+- **BarkBook (barkbook.app)** — Scheduling and booking automation for independent trainers. Has dog profiles and basic training notes. No session scoring, no roadmaps, no homework tracking. Strong on financial admin and booking automation.
+
+### Functional Overlap (trainer-facing, business ops)
+- **Clicks! with Digiwoof (digiwoof.com)** — $97–129/mo. R+ trainer-focused. Full business ops: scheduling, CRM, invoicing, email/SMS marketing, website builder, online courses. NO session scores, NO training roadmaps, NO structured dog profiles. Positioned as business operations, not training workflow.
+- **BusyPaws (busypaws.app)** — $79–199/mo. Scheduling, group classes, LMS for video courses, report cards, homework notifications. Targets facilities and multi-trainer teams more than solos. Has light training-adjacent features but no scoring or roadmaps. Common complaint: no support on lowest tier, poor mobile experience.
+- **PetPocketbook (petpocketbook.com)** — Low pricing, 4.9/5 on Capterra. Scheduling, invoicing, CRM. Built for dog walkers, not trainers. No training-specific features.
+
+### Facility / Enterprise (wrong audience for Pawgress, but known)
+- **Gingr (gingrapp.com)** — $95–150/mo. Multi-location kennel/boarding/daycare. Dog training is secondary.
+- **Time to Pet** — $30–40/mo. Scheduling and invoicing. Built for pet sitters.
+- **DaySmart** — $29–199/mo. Scheduling, reminders, texting. Generic.
+- **Pawfinity (pawfinity.com)** — $55–100/mo. Subscriptions, scheduling, payroll. Not training-specific.
+- **ProPet** — $49.99/mo+. Payments, report cards, pet photos.
+- **MoeGo (moego.pet)** — Pet service software (grooming, boarding focus).
+
+### Generic Tools Trainers Repurpose
+- **HoneyBook, PocketSuite, Dubsado** — Generic freelancer CRMs with trainer templates bolted on. No dog/session logic.
+
+## The Competitive Gap Pawgress Owns
+**No competitor at any price point has: session scores, per-dog training roadmaps, structured homework tracking, and training goals — all in a mobile-first product under $50/month built exclusively for independent dog trainers.**
 
 ## Our Edge
 

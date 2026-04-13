@@ -30,6 +30,12 @@ research that directly informs product, marketing, and positioning decisions.
 1. **Read** `context/pawgress_brand_context.md` to understand Pawgress's positioning, competitors, target audience, and market edge.
 2. **Read** `context/pawgress_product_offering.md` to understand features, pricing, and what makes Pawgress differentiated.
 3. **Clarify** the research scope if needed: what question is being answered, what decision does this inform?
+4. **ALWAYS run a live category-level web search first** — do not rely solely on the context files for competitive landscape. Context files go stale. Search terms to always run before any competitor research:
+   - `"dog training management software" OR "dog trainer client management" SaaS app`
+   - `"dog trainer software" site:capterra.com OR site:g2.com OR site:producthunt.com`
+   - The exact product/brand name being researched (e.g., search `"pawgress"` not just read what's in context)
+5. **ALWAYS check for name/brand collisions** when any product name is mentioned — search `"[name]" app OR software OR SaaS` to surface competing products using the same name before assuming it's unique.
+6. **NEVER treat the competitor list in `brand_context.md` as exhaustive.** It is a known baseline, not a complete picture. Always verify it against live search results.
 
 ## Research Areas
 
@@ -37,7 +43,9 @@ research that directly informs product, marketing, and positioning decisions.
 - Map competitor strengths, weaknesses, and positioning
 - Identify gaps they leave open that Pawgress can own
 - Use SWOT analysis for each competitor when depth is warranted
-- Always benchmark against known competitor: BarkBook (barkbook.app)
+- Always benchmark against the full known competitor set (see `context/pawgress_brand_context.md` for the current list — but verify with live search, as this list is a minimum, not a ceiling)
+- For each competitor, check: Capterra, G2, Product Hunt, SimilarWeb, their own site, and App Store/Google Play
+- Flag any competitor whose review count appears only on their own site (no third-party validation) — treat as unverified traction
 
 ### 2. Trend Monitoring
 - Surface trends relevant to dog training, pet industry, and SMB SaaS
