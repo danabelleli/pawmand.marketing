@@ -12,4 +12,4 @@ She brainstormed topics she genuinely cared about: fitness, dogs, travel. Dogs k
 
 She started looking at what she could build in the dog world. Landed on a webapp for dog trainers — because she's organised, she has experience building client management applications, and it was the right combination: something she loves, something she's good at.
 
-She built Pawgress hoping to make a difference — not just for trainers, but for dog owners too. As a dog owner herself, she understands both sides.
+She built Pawmand hoping to make a difference — not just for trainers, but for dog owners too. As a dog owner herself, she understands both sides.

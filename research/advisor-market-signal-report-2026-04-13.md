@@ -1,6 +1,7 @@
 # Advisor Report: Is pawgress.ca's Failure a Market Signal?
-*Date: 2026-04-13*
-*Skill: Pawgress Advisor*
+
+_Date: 2026-04-13_
+_Skill: Pawmand Advisor_
 
 ---
 
@@ -40,7 +41,7 @@ This matters because slower-burn pains are harder to sell at the point of discov
 
 ## The Risk to Watch
 
-Trainers may want scheduling first, documentation second. If that's true, the GTM should explicitly target trainers who *already have* a scheduling solution — BarkBook users, Google Cal users — and position Pawgress as the layer you add when booking is handled but your training records are still a mess. This is not a pivot. It's a targeting precision upgrade that makes the product easier to sell and the pain easier to trigger.
+Trainers may want scheduling first, documentation second. If that's true, the GTM should explicitly target trainers who _already have_ a scheduling solution — BarkBook users, Google Cal users — and position Pawgress as the layer you add when booking is handled but your training records are still a mess. This is not a pivot. It's a targeting precision upgrade that makes the product easier to sell and the pain easier to trigger.
 
 ---
 
@@ -48,7 +49,7 @@ Trainers may want scheduling first, documentation second. If that's true, the GT
 
 Validate the must-have question directly before launch. DM ten trainers who visibly use BarkBook or Google Cal (look at their Instagram bios or scheduling links). One question:
 
-> *"What's the one thing you still don't have good visibility into across all your clients and dogs?"*
+> _"What's the one thing you still don't have good visibility into across all your clients and dogs?"_
 
 If "session notes, progress tracking, what each dog is working on" comes up consistently — the pain hypothesis is confirmed and the product is ready to sell.
 

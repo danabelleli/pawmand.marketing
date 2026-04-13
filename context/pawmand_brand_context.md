@@ -1,12 +1,12 @@
-# Pawgress Brand Context
+# Pawmand Brand Context
 
-## What is Pawgress?
+## What is Pawmand?
 
-Pawgress is a client management SaaS platform built specifically for professional dog trainers.It helps trainers manage their entire business in one place — clients, dogs, training sessions, notes, progress tracking, and roadmaps.
+Pawmand is a client management SaaS platform built specifically for professional dog trainers.It helps trainers manage their entire business in one place — clients, dogs, training sessions, notes, progress tracking, and roadmaps.
 
 ## The Problem We Solve
 
-Most professional dog trainers are running their business through a chaotic mix of WhatsApp, spreadsheets, sticky notes, and memory. They're spending valuable time on admin instead of doing what they love — training dogs Pawgress gives them a professional, organized home for their entire business.
+Most professional dog trainers are running their business through a chaotic mix of WhatsApp, spreadsheets, sticky notes, and memory. They're spending valuable time on admin instead of doing what they love — training dogs Pawmand gives them a professional, organized home for their entire business.
 
 ## Who We Serve
 
@@ -42,15 +42,12 @@ Professional dog trainers who:
 **Last updated: 2026-04-13. Run a live web search to verify before any competitor research — do not treat this list as exhaustive.**
 
 ### Direct (same audience, training-focused)
-- **pawgress.ca** — SAME NAME. Canadian SaaS, live since 2024. Free + $29/mo. Scheduling, booking, Google Cal + Zoom, intake forms, basic progress tracking, streak tracking. No session scores, no per-dog roadmaps, no structured homework. SimilarWeb rank: #0 (extremely low traffic). Reviews only on own site (unverified). No Instagram presence.
+
+- **Pawmand.ca** — SAME NAME. Canadian SaaS, live since 2024. Free + $29/mo. Scheduling, booking, Google Cal + Zoom, intake forms, basic progress tracking, streak tracking. No session scores, no per-dog roadmaps, no structured homework. SimilarWeb rank: #0 (extremely low traffic). Reviews only on own site (unverified). No Instagram presence.
 - **BarkBook (barkbook.app)** — Scheduling and booking automation for independent trainers. Has dog profiles and basic training notes. No session scoring, no roadmaps, no homework tracking. Strong on financial admin and booking automation.
 
-### Functional Overlap (trainer-facing, business ops)
-- **Clicks! with Digiwoof (digiwoof.com)** — $97–129/mo. R+ trainer-focused. Full business ops: scheduling, CRM, invoicing, email/SMS marketing, website builder, online courses. NO session scores, NO training roadmaps, NO structured dog profiles. Positioned as business operations, not training workflow.
-- **BusyPaws (busypaws.app)** — $79–199/mo. Scheduling, group classes, LMS for video courses, report cards, homework notifications. Targets facilities and multi-trainer teams more than solos. Has light training-adjacent features but no scoring or roadmaps. Common complaint: no support on lowest tier, poor mobile experience.
-- **PetPocketbook (petpocketbook.com)** — Low pricing, 4.9/5 on Capterra. Scheduling, invoicing, CRM. Built for dog walkers, not trainers. No training-specific features.
+### Facility / Enterprise (wrong audience for Pawmand, but known)
 
-### Facility / Enterprise (wrong audience for Pawgress, but known)
 - **Gingr (gingrapp.com)** — $95–150/mo. Multi-location kennel/boarding/daycare. Dog training is secondary.
 - **Time to Pet** — $30–40/mo. Scheduling and invoicing. Built for pet sitters.
 - **DaySmart** — $29–199/mo. Scheduling, reminders, texting. Generic.
@@ -59,14 +56,16 @@ Professional dog trainers who:
 - **MoeGo (moego.pet)** — Pet service software (grooming, boarding focus).
 
 ### Generic Tools Trainers Repurpose
+
 - **HoneyBook, PocketSuite, Dubsado** — Generic freelancer CRMs with trainer templates bolted on. No dog/session logic.
 
-## The Competitive Gap Pawgress Owns
+## The Competitive Gap Pawmand Owns
+
 **No competitor at any price point has: session scores, per-dog training roadmaps, structured homework tracking, and training goals — all in a mobile-first product under $50/month built exclusively for independent dog trainers.**
 
 ## Our Edge
 
-Unlike generic CRMs or booking tools, Pawgress is built specifically for the training workflow:
+Unlike generic CRMs or booking tools, Pawmand is built specifically for the training workflow:
 
 - Session summaries with scores
 - Client homework tracking
@@ -76,5 +75,5 @@ Unlike generic CRMs or booking tools, Pawgress is built specifically for the tra
 
 ## Social Media
 
-Instagram: @getpawgress
-Website: pawgress.io
+Instagram: @getPawmand
+Website: Pawmand.com

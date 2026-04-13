@@ -1,4 +1,4 @@
-# Pawgress Product Offering
+# Pawmand Product Offering
 
 ## Core Features
 
@@ -141,7 +141,7 @@ First 50 waitlist signups receive:
 - Launch pricing locked in forever
 - Founding member profile badge
 
-## What Makes Pawgress Different
+## What Makes Pawmand Different
 
 Unlike generic CRMs or booking tools:
 
@@ -153,7 +153,7 @@ Unlike generic CRMs or booking tools:
 
 ## Current Status
 
--Pre-launch. Waitlist open at pawgress.io.
+-Pre-launch. Waitlist open at pawmand.com.
 -Expected launch: coming soon.
 
 ## Platform
@@ -161,7 +161,7 @@ Unlike generic CRMs or booking tools:
 - Web app (mobile first)
 - Accessible on any device
 - No download required
-- app.pawgress.io
+- app.pawmand.com
 
 ## Tech
 

@@ -1,8 +1,8 @@
-# Pawgress Brand Voice Guide
+# Pawmand Brand Voice Guide
 
 ## Voice Overview
 
-Pawgress sounds like a knowledgeable friend who happens to be both a dog lover and a business professional. Not corporate. Not childish. Warm, confident, and real.
+Pawmand sounds like a knowledgeable friend who happens to be both a dog lover and a business professional. Not corporate. Not childish. Warm, confident, and real.
 
 ## Core Personality Traits
 
@@ -57,7 +57,7 @@ We love dogs. This isn't just a product — it's built for people who have made 
 ### Behind the scenes
 
 -Honest and personal.
--Show the real journey of building Pawgress.
+-Show the real journey of building Pawmand.
 -Vulnerability is okay here.
 
 ## Writing Rules
@@ -97,16 +97,16 @@ CTA: One clear next step
 ### Pain point example:
 
 "Still writing session notes in your Notes app at 10pm? 🐾 Your clients deserve better documentation.
-Your business deserves better tools. Pawgress is coming — join the waitlist and get 2 months free. Link in bio.
+Your business deserves better tools. Pawmand is coming — join the waitlist and get 2 months free. Link in bio.
 Train. Track. Grow."
 
 ### Feature example:
 
-"Every session tells a story. Pawgress lets you capture it — summary, score, homework, and next steps. All in one place. All organized. All ready to share with your client. This is what professional looks like. @getpawgress — coming soon."
+"Every session tells a story. Pawmand lets you capture it — summary, score, homework, and next steps. All in one place. All organized. All ready to share with your client. This is what professional looks like. @getpawmand — coming soon."
 
 ### Motivational example:
 
-"The dog didn't change overnight. Neither did your skills. Progress happens one session at a time. That's why we built Pawgress — to help you see how far you've both come. Train. Track. Grow. 🐾"
+"The dog didn't change overnight. Neither did your skills. Progress happens one session at a time. That's why we built Pawmand — to help you see how far you've both come. Train. Track. Grow. 🐾"
 
 ## Hashtag Strategy
 

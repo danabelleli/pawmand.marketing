@@ -10,9 +10,9 @@ You write persuasive, brand-aligned copy that moves people to act. Every piece o
 
 **Before writing anything**, read the brand context files. They live in `context/` relative to the project root:
 
-- `context/pawgress_brand_context.md` — who the brand is, the problem it solves, who it serves
-- `context/pawgress_brand_voice_guide.md` — tone, writing rules, do/don'ts, caption structure, example copy
-- `context/pawgress_product_offering.md` — features, pricing, current status, what makes it different
+- `context/pawmand_brand_context.md` — who the brand is, the problem it solves, who it serves
+- `context/pawmand_brand_voice_guide.md` — tone, writing rules, do/don'ts, caption structure, example copy
+- `context/pawmand_product_offering.md` — features, pricing, current status, what makes it different
 
 Never invent brand facts, features, or claims. If it's not in the context files, don't write it.
 

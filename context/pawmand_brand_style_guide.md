@@ -1,10 +1,10 @@
-# Pawgress Brand Style Guide
+# Pawmand Brand Style Guide
 
 ## Logo
 
-- Wordmark: "pawgress" in lowercase
+- Wordmark: "Pawmand" in lowercase
 - The "a" is replaced with a paw print icon
-- Include @getpawgress somewhere on each post but placement can vary per post
+- Include @getpawmand somewhere on each post but placement can vary per post
 
 ## Colors
 
@@ -16,12 +16,13 @@ Full brand color palette:
 #222a4e → dark navy (primary dark)
 #6e7593 → muted slate blue
 #7a93cb → medium periwinkle blue
+#D0DAF1 → light periwinkle blue
 #fed5b9 → warm peach
 #654833 → warm brown
 
 ### Color usage philosophy:
 
-These are your brand colors but you are not limited to using them in a rigid way. Mix and layer them creatively across posts. Variety in color usage keeps the feed feeling fresh and dynamic. Every post should feel like it belongs to Pawgress but no two posts need to look identical.
+These are your brand colors but you are not limited to using them in a rigid way. Mix and layer them creatively across posts. Variety in color usage keeps the feed feeling fresh and dynamic. Every post should feel like it belongs to Pawmand but no two posts need to look identical.
 
 ## Typography
 
@@ -70,7 +71,7 @@ When using real dog photos:
 ## Post Format
 
 - Primary format: 4:5 vertical (1080x1350px)
-- Always include @getpawgress on every post placement can vary — corner, bottom, anywhere that feels natural
+- Always include @getPawmand on every post placement can vary — corner, bottom, anywhere that feels natural
 
 ## What to NEVER do
 
